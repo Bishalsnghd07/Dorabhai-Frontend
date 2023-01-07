@@ -23,7 +23,7 @@ const HomeMainbar = () => {
     <div className='main-bar'>
       <div className='main-bar-header1'>
         <div>
-            <h1><img src={Icon8} alt='Icon8' width='204px'/></h1> 
+            <h1><img src={Icon8} alt='Icon8' width='194px'/></h1> 
         </div>
       </div>
 
@@ -36,7 +36,7 @@ const HomeMainbar = () => {
       <div className='main-bar-header3'>
         <h1> Semester Courses
         <div>  
-          <img src={Icon9} alt='Icon7' width='250px' />
+          <img src={Icon9} alt='Icon9' width='250px' />
         </div>
           </h1>
       </div>

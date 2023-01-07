@@ -11,18 +11,18 @@
     padding-top: 46px;
     padding-right: 200px;
     /* margin:20px 1084px 40px 25px; */
-    margin: 0px 1086px 38px 25px;
+    margin: 0px 1086px 38px -26px;
 }
 
 .main-bar-header2 h1{
     top: 71px;
-    left: 248px;
+    left: 225px;
     position: absolute;
     cursor: pointer;
 }
 
 .main-bar-header3 h1{
-    padding-left: 280px;
+    padding-left: 190px;
     position: absolute;
     -webkit-text-fill-color: #3E4851;
 }
@@ -46,7 +46,7 @@
     position: absolute;
 }
 .main-bar-header7 h1{
-    padding-left: 280px;
+    padding-left: 190px;
     padding-top: 184px;
     position: absolute;
     -webkit-text-fill-color: #3E4851;
