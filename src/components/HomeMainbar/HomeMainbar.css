@@ -1,0 +1,126 @@
+.main-bar{
+    width: 100%;
+    margin: 28px 0px;
+}
+.main-bar-header1{
+    display:block;
+}
+
+.main-bar-header1 h1{
+    position:relative;
+    padding-top: 46px;
+    padding-right: 200px;
+    /* margin:20px 1084px 40px 25px; */
+    margin: 0px 1086px 38px 25px;
+}
+
+.main-bar-header2 h1{
+    top: 71px;
+    left: 248px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.main-bar-header3 h1{
+    padding-left: 280px;
+    position: absolute;
+    -webkit-text-fill-color: #3E4851;
+}
+.main-bar-header3 h1:hover{
+    cursor: pointer;
+}
+.main-bar-header4 h1{
+    padding-left: 550px;
+    padding-top: 41px;
+    position: absolute;
+}
+
+.main-bar-header5 h1{
+    padding-left: 824px;
+    padding-top: 41px;
+    position: absolute;
+}
+.main-bar-header6 h1{
+    padding-left: 1124px;
+    padding-top: 41px;
+    position: absolute;
+}
+.main-bar-header7 h1{
+    padding-left: 280px;
+    padding-top: 184px;
+    position: absolute;
+    -webkit-text-fill-color: #3E4851;
+}
+.main-bar-header8 h1{
+    padding-left: 500px;
+    padding-top: 227px;
+    position: absolute;
+}
+.main-bar-header9 h1{
+    padding-left: 716px;
+    padding-top: 227px;
+    position: absolute;
+}
+.main-bar-header10 h1{
+    padding-left: 932px;
+    padding-top: 227px;
+    position: absolute;
+}
+.main-bar-header11 h1{
+    padding-left: 1148px;
+    padding-top: 227px;
+    position: absolute;
+}
+.main-bar-header12 h1{
+    padding-left: 1364px;
+    padding-top: 227px;
+    position: absolute;
+}
+
+.main-bar-header13 h1{
+   color: #383B3E;
+   font-size: 15px;
+}
+
+
+
+
+.main-bar-header13 {
+    padding-left: 40px;
+    padding-top: 559px;
+    position: absolute;
+    cursor: pointer;
+}
+
+/* .main-bar-header14 h1{
+    width: 10px;
+} */
+
+.main-bar-header14 {
+    padding-left: 95px;
+    padding-top: 600px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.main-bar-header15 {
+    padding-left: 149px;
+    padding-top: 600px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.main-bar-header16 {
+    padding-left: 205px;
+    padding-top: 600px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.main-bar-header17 {
+    padding-left: 2px;
+    padding-top: 620px;
+    position: absolute;
+    cursor: pointer;
+}
+

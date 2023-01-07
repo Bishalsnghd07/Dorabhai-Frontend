@@ -1,0 +1,23 @@
+.main-nav{
+    min-height: 50px;
+    width: 100%;
+    margin: 0% auto;
+    box-shadow: 0px 1px 5px #00000033;
+    background-color: black;
+    position: fixed;
+    z-index: 5;
+    top: 0%;
+    left: 0%;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar{
+    height: 100%;
+    min-width: 85%;
+    display: flex;
+    align-items: center;
+    padding: 0px 20px;
+    /* justify-content: center; */
+}
+
