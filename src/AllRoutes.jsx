@@ -5,7 +5,7 @@ import Home from './Pages/Home/Home'
 const AllRoutes = () => {
   return (
     <Routes>
-      <Route exact path='/Dorabhai-Frontend' element= {<Home />} />
+      <Route exact path='/' element= {<Home />} />
     </Routes>
   )
 }

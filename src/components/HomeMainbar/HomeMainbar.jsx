@@ -23,7 +23,7 @@ const HomeMainbar = () => {
     <div className='main-bar'>
       <div className='main-bar-header1'>
         <div>
-            <h1><img src={Icon8} alt='Icon8' width='194px'/></h1> 
+            <h1><img src={Icon8} alt='Icon8' width='196px'/></h1> 
         </div>
       </div>
 
@@ -110,7 +110,7 @@ const HomeMainbar = () => {
       </div>
       <div className='main-bar-header17'>
         <div>  
-        <h1><img src={Icon19} alt='Icon19' width='298px' height='120px'/></h1>
+        <h1><img src={Icon19} alt='Icon19' width='212px' height='125px'/></h1>
         </div>
       </div>
     </div>
